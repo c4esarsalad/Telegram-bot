@@ -1,1 +1,1 @@
----В bot.py bot = telebot.TeleBot("---") вместо --- напишите свой токен
+В bot.py bot = telebot.TeleBot("---") вместо --- напишите свой токен
